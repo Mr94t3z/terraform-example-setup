@@ -7,7 +7,7 @@ This repository contains the Terraform configuration files for deploying a REST 
 
 ## Folder Structure
 ```
-terraform-setup/
+terraform-example-setup/
 ├── provider.tf
 ├── networking.tf
 ├── ecs.tf
