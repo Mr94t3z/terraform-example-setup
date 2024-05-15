@@ -37,8 +37,8 @@ terraform-setup/
 ## Setup Instructions
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-repository.git
-   cd your-repository/terraform-setup
+   git clone https://github.com/Mr94t3z/terraform-example-setup
+   cd terraform-example-setup
    ```
 
 2. **Configure AWS credentials**:
